@@ -1,3 +1,4 @@
+'use client'
 import { FooterDataOne, FooterDataTwo } from '@/data/footerData'
 import Link from 'next/link'
 import React from 'react'
